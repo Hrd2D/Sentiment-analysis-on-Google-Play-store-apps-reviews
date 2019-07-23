@@ -1,0 +1,9 @@
+In this tutorial we need all of the following python libraries.
+
+~ pandas
+~ numpy
+~ scikit-learn
+~ scipy
+~ python-dateutil
+~ pytz
+~ six
