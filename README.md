@@ -7,4 +7,4 @@ Suppose you want user reviews to be classified as positive and negative. Sentime
 Reviews of 23 popular mobile apps have been scrapped. In order to create the dataset, the data was compiled manually labelling each data as positive or negative example.
 
 # Renders Notebook
-you should check notenook via [nbviewer](https://nbviewer.jupyter.org/github/dhadukhardik/Sentiment-analysis-on-Google-Play-store-apps-reviews/blob/master/main.ipynb), it renders much better there in any case!
+you should check [main.ipynb](https://nbviewer.jupyter.org/github/dhadukhardik/Sentiment-analysis-on-Google-Play-store-apps-reviews/blob/master/main.ipynb) notebook via nbviewer, it renders much better there in any case!
